@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1Is_xA5TMM5_bwUbziQGBW27-ceOJPAa4",
+    "dest": "notebooks/01_cifar100_cnn_baseline.ipynb",
+    "source_name": "learningrate0005-4.ipynb",
+    "url": "https://colab.research.google.com/drive/1Is_xA5TMM5_bwUbziQGBW27-ceOJPAa4",
+    "source_sha256": "7c2b0c38663a6f090c6f8243d3d91c8968ba51401670b99d22cfceee2f2c68f8",
+    "packaged_sha256": "71fa5699e852d037a47d63dfb42670e96b09bca04f0355a8b22457676325caf4",
+    "code_sha256": "cb9b34c64f849d1e5ec14ec753ec626bb3a6702d9521f1161ddfd915569be74b",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "1Xop85JRgqnAtOWjrqOiCxC8JmqWgOOUB",
+    "dest": "notebooks/experiments/learning_rate_0001.ipynb",
+    "source_name": "learningrate0001-1.ipynb",
+    "url": "https://drive.google.com/file/d/1Xop85JRgqnAtOWjrqOiCxC8JmqWgOOUB/view?usp=drivesdk",
+    "source_sha256": "cf0d338e9ee56b7ddd884f5f8f6ae4ea2e8e3d87ddee2af37f2dc24837630039",
+    "packaged_sha256": "76f9aff51a7745c1302b0c2fe8875c5eb26d95e5c2947a06677fdc68c9083fe8",
+    "code_sha256": "827c566bc43598471b21ae48fd7e99f68af4a637f2348ecb87dd7db559e5bec9",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "1w_spQwAqJBqLSZfAVBY8suhCOJ0oO9u5",
+    "dest": "notebooks/experiments/learning_rate_001.ipynb",
+    "source_name": "learningrate001-1.ipynb",
+    "url": "https://colab.research.google.com/drive/1w_spQwAqJBqLSZfAVBY8suhCOJ0oO9u5",
+    "source_sha256": "cfe6ad5a71ed2d05142bafc55bf15de2739e0cd6225baee56b6ec6a0c058f05a",
+    "packaged_sha256": "9878be1f459782966efacca14579f216d4895ba7520b5641d347d37a81e06093",
+    "code_sha256": "fe5b747f215283051367c675bfb7a15db5f2e90c4bd8e32f0fd880502e4b6628",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "15COORnwat7rKUqe5aLGYIzx4YpOvHaAQ",
+    "dest": "notebooks/experiments/batch_size_64.ipynb",
+    "source_name": "batchsize64-1.ipynb",
+    "url": "https://colab.research.google.com/drive/15COORnwat7rKUqe5aLGYIzx4YpOvHaAQ",
+    "source_sha256": "fcc45e14e56c3dee8b3cde7329c83d216b797419ce63e3b97742e3401b612053",
+    "packaged_sha256": "933532233d044c4d70fe3c7fecf6cab85dfb87deedbbd5cb702ada9712334560",
+    "code_sha256": "648490d8af57290b973fdab37e484df51bd418cd21ba6be1f4a54ba9e5d963bc",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "1S_qqSMPkzAlLLqMMYBOWQTZd_mWkesIL",
+    "dest": "notebooks/experiments/batch_size_256.ipynb",
+    "source_name": "batchsize256-2.ipynb",
+    "url": "https://colab.research.google.com/drive/1S_qqSMPkzAlLLqMMYBOWQTZd_mWkesIL",
+    "source_sha256": "88e96f3b160c16cd6bcb2e7401b5fb7a0500eba43c09b890522c43d203645d32",
+    "packaged_sha256": "9891042d7f2c57ce83b97b44be8508aa7757ef7c3daedd3c135a6c2b2fd631fc",
+    "code_sha256": "4737fed1c439622efa3c5dc045837dd078ee2bebfa3ef535ab471bf516cfa8f3",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "1sfi-_mkiCg9EqmpPLhk0_rnIBy95Kv4W",
+    "dest": "notebooks/experiments/dropout_low.ipynb",
+    "source_name": "dropoutlow-1.ipynb",
+    "url": "https://colab.research.google.com/drive/1sfi-_mkiCg9EqmpPLhk0_rnIBy95Kv4W",
+    "source_sha256": "6993febbb2ae4656888767558f6e683999019d550e6e9dc63eed0fe15339ac06",
+    "packaged_sha256": "0ddaf7bccbc807aebafc33964f989c5839200725025ee2fa5cee0edd7f90196d",
+    "code_sha256": "dd6da5d543432dfeda1bd76bef8fb984d0f730733a53c482077d4e9d79df6e10",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "id": "1K66N08ocehheR2EAuYv4i_BWJSaBbxgu",
+    "dest": "notebooks/experiments/dropout_high.ipynb",
+    "source_name": "dropouthigh-1.ipynb",
+    "url": "https://colab.research.google.com/drive/1K66N08ocehheR2EAuYv4i_BWJSaBbxgu",
+    "source_sha256": "63a18cd0988fda7229ab3be3b6eabffc1f3e1dc6dba4bb971ccf460f03669421",
+    "packaged_sha256": "517ec78a4a48a5eefce13347083614dc0da7e8b7c3c703c6ebb557e0a08c2032",
+    "code_sha256": "0c2e0207ed7af7c2b8b691ce1f6a4211c9e3e507d8eafc0b8f5f1581ee0a60c7",
+    "changes": "Descriptive package filename; JSON formatting; transient Colab execution metadata removed. Code, execution counts and outputs preserved."
+  },
+  {
+    "dest": "docs/coursework_report.pdf",
+    "source_sha256": "cf73d27fd3861fc27e3c28f9f6c712ddb4408692b5d3022c5de7666a6f605f54",
+    "packaged_sha256": "cf73d27fd3861fc27e3c28f9f6c712ddb4408692b5d3022c5de7666a6f605f54",
+    "changes": "None; byte-for-byte copy.",
+    "source_file": "34212-Lab-S-Report.pdf",
+    "source_location": "Author's local coursework archive"
+  },
+  {
+    "dest": "results/original_results.xlsx",
+    "source_sha256": "d57b5f57685007ca825c1d7929ca6f57845d9e64304070daed84228879256a3f",
+    "packaged_sha256": "d57b5f57685007ca825c1d7929ca6f57845d9e64304070daed84228879256a3f",
+    "changes": "None; byte-for-byte copy.",
+    "source_file": "roboticsdata.xlsx",
+    "source_location": "Author's local coursework archive"
+  },
+  {
+    "dest": "figures/original_learning_rate_comparison.png",
+    "source_sha256": "ee62e5b36edf3b7dc969df0dff637dbd6c3476af666139b4014728f134009b28",
+    "packaged_sha256": "ee62e5b36edf3b7dc969df0dff637dbd6c3476af666139b4014728f134009b28",
+    "changes": "None; byte-for-byte copy.",
+    "source_file": "output.png",
+    "source_location": "Author's local coursework archive"
+  },
+  {
+    "dest": "results/histories/history_run1.json",
+    "source_sha256": "45538e0738ac4e1b8396a8cbf75242e450cdabefea86f1541975ab609af980b5",
+    "packaged_sha256": "45538e0738ac4e1b8396a8cbf75242e450cdabefea86f1541975ab609af980b5",
+    "changes": "None; byte-for-byte copy.",
+    "source_file": "history_run1.json",
+    "source_location": "Author's local notebook exports"
+  },
+  {
+    "dest": "results/histories/history_run2_2_2.json",
+    "source_sha256": "53874dbfeef2ef237b425866c348a02055dd6d34d15b7ca33190121941496822",
+    "packaged_sha256": "53874dbfeef2ef237b425866c348a02055dd6d34d15b7ca33190121941496822",
+    "changes": "None; byte-for-byte copy.",
+    "source_file": "history_run2_2_2.json",
+    "source_location": "Author's local notebook exports"
+  }
+]

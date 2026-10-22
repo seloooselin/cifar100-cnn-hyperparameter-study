@@ -1,0 +1,7 @@
+# Minimal libraries imported by the selected notebooks, plus a notebook viewer.
+# Original versions are unavailable; this is not a tested environment lock.
+# Requires TensorFlow/Keras with the legacy ImageDataGenerator API.
+tensorflow
+numpy
+matplotlib
+notebook

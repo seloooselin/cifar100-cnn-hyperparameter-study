@@ -1,0 +1,29 @@
+# Python and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Notebook/runtime clutter
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+logs/
+wandb/
+
+# Downloaded data and future training artefacts
+data/
+datasets/
+.keras/
+checkpoints/
+saved_models/
+*.h5
+*.hdf5
+*.keras
+*.ckpt*
+*.tfevents.*
+
+# Retain curated JSON histories, CSV results and figures in version control.

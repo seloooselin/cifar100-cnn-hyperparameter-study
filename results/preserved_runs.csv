@@ -1,0 +1,8 @@
+notebook,learning_rate,batch_size_in_code,dropout_in_code,epochs,recorded_test_accuracy,recorded_test_loss,source_url
+notebooks/01_cifar100_cnn_baseline.ipynb,0.0005,128,0.25/0.3/0.4/0.5,100,0.6065000295639038,1.4512799978256226,https://colab.research.google.com/drive/1Is_xA5TMM5_bwUbziQGBW27-ceOJPAa4
+notebooks/experiments/learning_rate_0001.ipynb,0.0001,128,0.25/0.3/0.4/0.5,100,0.5663999915122986,1.6020114421844482,https://drive.google.com/file/d/1Xop85JRgqnAtOWjrqOiCxC8JmqWgOOUB/view?usp=drivesdk
+notebooks/experiments/learning_rate_001.ipynb,0.001,128,0.25/0.3/0.4/0.5,100,0.5246000289916992,1.7756458520889282,https://colab.research.google.com/drive/1w_spQwAqJBqLSZfAVBY8suhCOJ0oO9u5
+notebooks/experiments/batch_size_64.ipynb,0.0005,64,0.25/0.3/0.4/0.5,100,0.5838000178337097,1.5361897945404053,https://colab.research.google.com/drive/15COORnwat7rKUqe5aLGYIzx4YpOvHaAQ
+notebooks/experiments/batch_size_256.ipynb,0.0005,256,0.25/0.3/0.4/0.5,100,0.6168000102043152,1.3798847198486328,https://colab.research.google.com/drive/1S_qqSMPkzAlLLqMMYBOWQTZd_mWkesIL
+notebooks/experiments/dropout_low.ipynb,0.0005,125,0.2/0.2/0.3/0.4,100,0.6137999892234802,1.4664028882980347,https://colab.research.google.com/drive/1sfi-_mkiCg9EqmpPLhk0_rnIBy95Kv4W
+notebooks/experiments/dropout_high.ipynb,0.0005,125,0.40/0.50/0.50/0.60,100,0.551800012588501,1.6686999797821045,https://colab.research.google.com/drive/1K66N08ocehheR2EAuYv4i_BWJSaBbxgu
