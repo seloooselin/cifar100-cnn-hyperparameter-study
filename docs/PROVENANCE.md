@@ -1,6 +1,6 @@
 # Provenance, selection and publication review
 
-Prepared on 22 October 2026 as a local portfolio package for Selin Deniz İşken. No training, repository creation or publication was performed. Original Mac and Google Drive files were read only.
+Prepared on 22 October 2026 as a local portfolio package for Selin Deniz İşken. No training was performed during local preparation; repository creation and publication followed that preparation. Original Mac and Google Drive files were read only.
 
 ## Primary sources
 
@@ -36,7 +36,7 @@ The portfolio describes the author's coursework extensions and experimental work
 
 ## Public-publication review
 
-Reviewed on 22 October 2026 for the proposed `seloooselin/cifar100-cnn-hyperparameter-study` repository. No GitHub repository has been created or published.
+Reviewed on 22 October 2026 for `seloooselin/cifar100-cnn-hyperparameter-study`, now published as this public portfolio repository.
 
 ### Coursework content and permissions
 
